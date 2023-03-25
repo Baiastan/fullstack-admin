@@ -124,7 +124,7 @@ const Dashboard = () => {
         </Box>
         <StatBox
           title="Monthly Sales"
-          value={data && data.thisMonthStats}
+          value={data && 59525}
           increase="+5%"
           description="Since last month"
           icon={
